@@ -1,0 +1,13 @@
+body { 	
+	background:	linear-gradient(#0d3fb5,#993fD9);
+	font-size: 18px;
+	position: relative;
+	height: 100%;
+	text-align: center;
+	font-family: 'Cinzel', serif;
+	
+}
+
+html{
+	height: 100%;
+}
